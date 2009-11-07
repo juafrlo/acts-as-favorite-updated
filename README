@@ -1,7 +1,7 @@
 Acts As Favorite
 =================
 
-   This is an update made by Juan de Frías of 'act_as_favorite' plugin made by Josh Martin, in order to make it work with Rails versions 2.2.1 and higher.
+   This is an update made by Juan de Frías of 'act_as_favorite' plugin made by Josh Martin, in order to make it work on Rails versions 2.2.1 and higher.
 
    This plugin provides a simple way to track users favorites within the system using
 ActiveRecord models. 
